@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   class="Svg-sc-1usfroi-0 jNmUis ContextMenuActionItem__StyledIcon-sc-1c30sii-1 dxhkOz"
+   viewBox="0 0 20.166061 19.500629"
+   width="20.166061"
+   height="19.500629"
+   role="img">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <circle
+     style="fill:none;stroke:#181818"
+     id="circle2"
+     r="2.5"
+     cy="16.500629"
+     cx="14.529343" />
+  <polyline
+     transform="translate(-2.9706573,-2.4993704)"
+     style="fill:none;stroke:#181818"
+     id="polyline4"
+     points="22.87 12.51 20 10.7 20 19" />
+  <path
+     style="fill:none;stroke:#181818"
+     id="path6"
+     d="m 12.549343,12.79063 -0.69,-0.39 a 1,1 0 0 1 -0.32,-1.63 l 0.53,-0.56 0.13,-0.13 a 5.72,5.72 0 0 0 1.83,-4.0700004 5.27,5.27 0 0 0 -5.0000003,-5.50999996 5.27,5.27 0 0 0 -5,5.50999996 5.72,5.72 0 0 0 1.83,4.0600004 l 0.13,0.13 0.53,0.56 a 1,1 0 0 1 -0.32,1.63 l -3.17,1.81 a 5,5 0 0 0 -1.87,1.84 5.53,5.53 0 0 0 -0.64999999,2.94 v 0.52" />
+</svg>

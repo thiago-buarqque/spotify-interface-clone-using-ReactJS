@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.5" height="21.5" viewBox="0 0 21.5 21.5">
+  <g id="Componente_1_1" data-name="Componente 1 – 1" transform="translate(0.5 0.5)">
+    <g id="playCircle_" transform="translate(-2 -2)">
+      <circle id="Elipse_4" data-name="Elipse 4" cx="10" cy="10" r="10" transform="translate(2 2)" stroke-width="1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Caminho_55" data-name="Caminho 55" d="M10,8l6,4-6,4Z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <circle id="Elipse_5" data-name="Elipse 5" cx="10.5" cy="10.5" r="10.5" fill="none"/>
+  </g>
+</svg>
