@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Clone of the Spotify interface using ReactJS (English Version)
 
-### `yarn start`
+This project is a clone of the Spotify (web) interface. The project is not for profit or any other than learning.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Legal information:**
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**If you have the right to part of the content presented in this project and do not want it to be published here or anywhere else, please contact me:** thiago.buarqque@gmail.com
 
-### `yarn test`
+**Almost all images and illustrations were taken from Spotify itself, except for the icons of the `Styled-icons`. The pages are static, there is no content update. Much of the actual interactions are available.**
+## Learning
+The objective of this project was to learn:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**ReactJS** (this was my second project using ReactJS)
+**React-router-dom**
+**[Styled-components](https://github.com/styled-components/styled-components)**
+**[Styled-icons](https://github.com/styled-icons/styled-icons)** 
 
-### `yarn build`
+The objectives were achieved and improved in the following projects.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tools
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+ - HTML5
+ - JavaScript
+ - React / React-dom 16.14.0
+ - stylized components: ^ 5.2.1
+ - stylized icons 10.23.0
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Spotify interface clone using ReactJS (Versão em Português)
 
-### `yarn eject`
+Este projeto é um clone da interface do Spotify (web). O projeto não possui fins lucrativos ou quaisquer outros a não o ser de aprendizado próprio.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Informações legais:**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Se você possui o direito de parte do conteúdo apresentado neste projeto e não quer que ele seja publicado aqui ou em qualquer outro lugar, por favor me contate:** thiago.buarqque@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Quase todas as imagens e ilustrações foram retiradas do próprio Spotify, exceto os ícones da `Styled-icons`. As páginas são estáticas, não há atualização de conteúdo. Boa parte das interações reais estão disponíveis.**
+## Aprendizado
+O objetivo deste projeto foi aprender:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**ReactJS** (este foi meu segundo projeto usando ReactJS)
+**React-router-dom**
+[**Styled components**](https://github.com/styled-components/styled-components)
+[**Styled icons**](https://github.com/styled-icons/styled-icons)
 
-## Learn More
+Os objetivos foram alcançados e aprimorados nos projetos seguintes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Ferramentas
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ - HTML5
+ - JavaScript
+ - React/React-dom 16.14.0
+ - styled-components: ^5.2.1
+ - styled-icons 10.23.0
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+> Written with [StackEdit](https://stackedit.io/).
