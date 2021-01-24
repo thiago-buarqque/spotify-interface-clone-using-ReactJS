@@ -13,10 +13,10 @@ This project is a clone of the Spotify (web) interface. The project is not for p
 ## 📚 Learning
 The objective of this project was to learn:
 
-**ReactJS** (this was my second project using ReactJS)
-**React-router-dom**
-**[Styled-components](https://github.com/styled-components/styled-components)**
-**[Styled-icons](https://github.com/styled-icons/styled-icons)** 
+- **ReactJS** (this was my second project using ReactJS)
+- **React-router-dom**
+- **[Styled-components](https://github.com/styled-components/styled-components)**
+- **[Styled-icons](https://github.com/styled-icons/styled-icons)** 
 
 The objectives were achieved and improved in the following projects.
 
@@ -40,10 +40,10 @@ Este projeto é um clone da interface do Spotify (web). O projeto não possui fi
 ## 📚 Aprendizado
 O objetivo deste projeto foi aprender:
 
-**ReactJS** (este foi meu segundo projeto usando ReactJS)
-**React-router-dom**
-[**Styled components**](https://github.com/styled-components/styled-components)
-[**Styled icons**](https://github.com/styled-icons/styled-icons)
+- **ReactJS** (este foi meu segundo projeto usando ReactJS)
+- **React-router-dom**
+- [**Styled components**](https://github.com/styled-components/styled-components)
+- [**Styled icons**](https://github.com/styled-icons/styled-icons)
 
 Os objetivos foram alcançados e aprimorados nos projetos seguintes.
 
